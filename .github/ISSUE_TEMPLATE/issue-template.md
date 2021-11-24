@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
-# Title (required)
-# Tag : (e.g: **Front-end** etc...) (selected)
-# Descriptions (required)
+## Title (required)
+
+### Tag : (e.g: **Front-end** etc...) (selected)
+
+### Descriptions (required)
+
+### How to fix it
